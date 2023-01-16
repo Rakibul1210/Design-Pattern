@@ -1,0 +1,3 @@
+interface Cricket {
+    void play();
+}
