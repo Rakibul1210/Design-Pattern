@@ -1,0 +1,16 @@
+# Java build output
+*.class
+out/
+bin/
+build/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code user-specific settings
+.vscode/
+
+# Operating system files
+.DS_Store
