@@ -1,8 +1,6 @@
-
-
 public class Main {
     public static void main(String[] args) {
-        Cricket cricket = CricketFactory.getCricket("ODI");
-        cricket.play();
+        CricketFactory factory = new ODICricketFactory();
+        factory.startMatch();
     }
 }

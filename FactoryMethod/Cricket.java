@@ -1,3 +1,3 @@
-interface Cricket {
+public interface Cricket {
     void play();
 }
